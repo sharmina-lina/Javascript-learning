@@ -1,0 +1,37 @@
+h1 {
+    background-image: URL(./RES/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+}
+div {
+    display: block;
+}
+#brush {
+    background-color: mediumaquamarine;
+}
+#frame {
+    background-color: lightcoral;
+}
+#paint {
+    background-color: skyblue;
+}
+.item h2 {
+    color: white;
+    font-size: 32px;
+
+}
+h1, h2, h3 p {
+    font-family: Helvetica;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    overflow-x:auto ;
+    overflow-y:auto ;
+}
+span {
+    font-family:Helvetica;
+    font-weight: bold;
+    color: blue;
+}
